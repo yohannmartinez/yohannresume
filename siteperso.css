@@ -6,6 +6,7 @@ body{
     background-color: #3a7772;
     color:white;
     font-weight:bold;
+    z-index:50;
 }
 
 .contglob{
